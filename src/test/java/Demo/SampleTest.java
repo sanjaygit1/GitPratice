@@ -9,5 +9,6 @@ public class SampleTest {
  {
 	 System.out.println("Hello");
 	 //Bye
+	 System.out.println("Hi");
  }
 }
